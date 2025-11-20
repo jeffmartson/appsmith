@@ -38,6 +38,6 @@
   "dependencies": {
     "@appsmith/wds": "workspace:^",
     "@appsmith/wds-theming": "workspace:^",
-    "glob": "^11.0.0"
+    "glob": "^11.1.0"
   }
 }
